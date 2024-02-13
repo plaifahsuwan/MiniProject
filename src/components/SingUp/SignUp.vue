@@ -82,18 +82,18 @@ const submitForm = async () => {
             <div class="col-md-5 mb-1">
                 <div class="card shadow">
                     <div class="card-header p-0">
-                        <img src="https://sme.thaicreditbank.com/uploads/knowledge/th/desktop/vzMYcGZJJX9s.jpg"
+                        <img src="https://blog.wu.ac.th/wp-content/uploads/2023/06/%E0%B9%80-4-2048x1448.png"
                             class="card-img-top" alt="sign">
                     </div>
                     <div class="card-body">
-                        <p class="card-text text-end">6 เทรนด์ธุรกิจน่าลงทุนสำหรับปี 2024.</p>
+                        <p class="card-text text-end">6 พันธุ์แมวยอดฮิต น่ารัก น่าเลี้ยง.</p>
                     </div>
                 </div>
             </div>
 
             <div class="col-md-7">
                 <div class="card shadow">
-                    <div class="card-header bg-info text-white">
+                    <div class="card-header bg-primary text-white">
                         <h5>ระบบลงทะเบียนผู้ใช้งาน</h5>
                     </div>
                     <div class="card-body">

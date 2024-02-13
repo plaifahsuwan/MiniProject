@@ -21,7 +21,7 @@ const notify = () => {
   <div class="container my-5">
     <div class="card shadow" style="width: 20rem;">
       <div class="card-header p-0">
-        <img src="https://the7eagles.com/wp-content/uploads/2022/02/web-development-image-01.png" class="card-img-top"
+        <img src="https://i2.wp.com/res.cloudinary.com/kohepets/image/upload/v1527324279/singapore-kittens-e1506671435143_su4rfk.png?resize=730%2C495&ssl=1P" class="card-img-top"
           alt="img">
       </div>
       <div class="card-body">
